@@ -1,0 +1,846 @@
+proxies:
+  - name: "server 1"
+    type: socks5
+    server: 202.144.201.98
+    port: 1088
+    username: test
+    password: test
+  - name: "server 2"
+    type: socks5
+    server: 203.96.226.98
+    port: 1088
+    username: test
+    password: test
+  - name: "server 3"
+    type: socks5
+    server: 103.123.169.243
+    port: 1088
+    username: test
+    password: test
+  - name: "server 4"
+    type: socks5
+    server: 103.159.218.218
+    port: 1920
+    username: test
+    password: test
+  - name: "server 5"
+    type: socks5
+    server: 103.126.23.222
+    port: 1088
+    username: test
+    password: test
+  - name: "server 6"
+    type: socks5
+    server: 103.166.253.94
+    port: 1088
+    username: test
+    password: test
+  - name: "server 7"
+    type: socks5
+    server: 103.186.238.9
+    port: 1088
+    username: test
+    password: test
+  - name: "server 8"
+    type: socks5
+    server: 103.111.225.73
+    port: 1088
+    username: test
+    password: test
+  - name: "server 9"
+    type: socks5
+    server: 103.108.60.35
+    port: 1088
+    username: test
+    password: test
+  - name: "server 10"
+    type: socks5
+    server: 103.84.252.101
+    port: 1088
+    username: test
+    password: test
+  - name: "server 11"
+    type: socks5
+    server: 123.253.96.249
+    port: 1088
+    username: test
+    password: test
+  - name: "server 12"
+    type: socks5
+    server: 114.130.183.10
+    port: 1088
+    username: test
+    password: test
+  - name: "server 13"
+    type: socks5
+    server: 103.195.140.12
+    port: 1088
+    username: test
+    password: test
+  - name: "server 14"
+    type: socks5
+    server: 103.197.48.198
+    port: 1088
+    username: test
+    password: test
+  - name: "server 15"
+    type: socks5
+    server: 118.179.158.241
+    port: 1088
+    username: test
+    password: test
+  - name: "server 16"
+    type: socks5
+    server: 43.243.205.58
+    port: 1088
+    username: test
+    password: test
+  - name: "server 17"
+    type: socks5
+    server: 203.76.148.154
+    port: 1088
+    username: test
+    password: test
+  - name: "server 18"
+    type: socks5
+    server: 180.148.214.52
+    port: 1088
+    username: test
+    password: test
+  - name: "server 19"
+    type: socks5
+    server: 118.179.205.202
+    port: 1088
+    username: test
+    password: test
+  - name: "server 20"
+    type: socks5
+    server: 103.186.238.8
+    port: 1088
+    username: test
+    password: test
+  - name: "server 21"
+    type: socks5
+    server: 115.127.142.157
+    port: 1088
+    username: test
+    password: test
+  - name: "server 22"
+    type: socks5
+    server: 103.38.55.55
+    port: 1088
+    username: test
+    password: test
+  - name: "server 23"
+    type: socks5
+    server: 43.229.210.8
+    port: 1088
+    username: test
+    password: test
+  - name: "server 24"
+    type: socks5
+    server: 103.122.74.26
+    port: 1088
+    username: test
+    password: test
+  - name: "server 25"
+    type: socks5
+    server: 182.48.84.54
+    port: 1088
+    username: test
+    password: test
+  - name: "server 26"
+    type: socks5
+    server: 45.114.85.161
+    port: 1088
+    username: test
+    password: test
+  - name: "server 27"
+    type: socks5
+    server: 27.147.141.162
+    port: 1088
+    username: test
+    password: test
+  - name: "server 28"
+    type: socks5
+    server: 103.106.119.38
+    port: 1088
+    username: test
+    password: test
+  - name: "server 29"
+    type: socks5
+    server: 103.122.252.94
+    port: 1088
+    username: test
+    password: test
+  - name: "server 30"
+    type: socks5
+    server: 58.84.33.11
+    port: 1088
+    username: test
+    password: test
+  - name: "server 31"
+    type: socks5
+    server: 27.147.248.56
+    port: 1088
+    username: test
+    password: test
+  - name: "server 32"
+    type: socks5
+    server: 103.71.46.197
+    port: 1088
+    username: test
+    password: test
+  - name: "server 33"
+    type: socks5
+    server: 45.64.132.21
+    port: 1088
+    username: test
+    password: test
+  - name: "server 34"
+    type: socks5
+    server: 182.48.79.78
+    port: 1088
+    username: test
+    password: test
+  - name: "server 35"
+    type: socks5
+    server: 103.129.200.102
+    port: 1088
+    username: test
+    password: test
+  - name: "server 36"
+    type: socks5
+    server: 103.197.48.126
+    port: 1088
+    username: test
+    password: test
+  - name: "server 37"
+    type: socks5
+    server: 103.81.104.161
+    port: 1088
+    username: test
+    password: test
+  - name: "server 38"
+    type: socks5
+    server: 116.206.91.65
+    port: 1088
+    username: test
+    password: test
+  - name: "server 39"
+    type: socks5
+    server: 27.147.248.58
+    port: 1088
+    username: test
+    password: test
+  - name: "server 40"
+    type: socks5
+    server: 103.81.104.206
+    port: 1088
+    username: test
+    password: test
+  - name: "server 41"
+    type: socks5
+    server: 103.189.158.13
+    port: 1088
+    username: test
+    password: test
+  - name: "server 42"
+    type: socks5
+    server: 118.179.216.138
+    port: 1920
+    username: test
+    password: test
+  - name: "server 43"
+    type: socks5
+    server: 103.108.60.92
+    port: 1088
+    username: test
+    password: test
+  - name: "server 44"
+    type: socks5
+    server: 118.179.214.107
+    port: 1088
+    username: test
+    password: test
+  - name: "server 45"
+    type: socks5
+    server: 175.29.126.110
+    port: 1088
+    username: test
+    password: test
+  - name: "server 46"
+    type: socks5
+    server: 59.152.96.226
+    port: 1088
+    username: test
+    password: test
+  - name: "server 47"
+    type: socks5
+    server: 27.147.248.59
+    port: 1088
+    username: test
+    password: test
+  - name: "server 48"
+    type: socks5
+    server: 203.190.8.8
+    port: 1088
+    username: test
+    password: test
+  - name: "server 49"
+    type: socks5
+    server: 103.254.167.18
+    port: 1088
+    username: test
+    password: test
+  - name: "server 50"
+    type: socks5
+    server: 103.30.29.204
+    port: 1088
+    username: test
+    password: test
+  - name: "server 51"
+    type: socks5
+    server: 203.76.110.118
+    port: 1088
+    username: test
+    password: test
+  - name: "server 52"
+    type: socks5
+    server: 123.49.39.120
+    port: 1088
+    username: test
+    password: test
+  - name: "server 53"
+    type: socks5
+    server: 103.140.25.10
+    port: 1088
+    username: test
+    password: test
+  - name: "server 54"
+    type: socks5
+    server: 103.197.48.154
+    port: 1088
+    username: test
+    password: test
+  - name: "server 55"
+    type: socks5
+    server: 103.108.60.173
+    port: 1088
+    username: test
+    password: test
+  - name: "server 56"
+    type: socks5
+    server: 103.166.253.92
+    port: 1088
+    username: test
+    password: test
+  - name: "server 57"
+    type: socks5
+    server: 103.129.200.173
+    port: 1088
+    username: test
+    password: test
+  - name: "server 58"
+    type: socks5
+    server: 103.122.254.33
+    port: 1088
+    username: test
+    password: test
+  - name: "server 59"
+    type: socks5
+    server: 103.214.201.134
+    port: 1088
+    username: test
+    password: test
+  - name: "server 60"
+    type: socks5
+    server: 103.84.252.97
+    port: 1088
+    username: test
+    password: test
+  - name: "server 61"
+    type: socks5
+    server: 103.199.155.186
+    port: 1088
+    username: test
+    password: test
+  - name: "server 62"
+    type: socks5
+    server: 203.190.9.73
+    port: 1088
+    username: test
+    password: test
+  - name: "server 63"
+    type: socks5
+    server: 220.247.165.129
+    port: 1088
+    username: test
+    password: test
+  - name: "server 64"
+    type: socks5
+    server: 144.48.119.194
+    port: 1088
+    username: test
+    password: test
+  - name: "server 65"
+    type: socks5
+    server: 123.253.96.148
+    port: 1088
+    username: test
+    password: test
+  - name: "server 66"
+    type: socks5
+    server: 202.4.105.122
+    port: 1088
+    username: test
+    password: test
+  - name: "server 67"
+    type: socks5
+    server: 103.245.96.21
+    port: 1088
+    username: test
+    password: test
+  - name: "server 68"
+    type: socks5
+    server: 103.81.104.177
+    port: 1088
+    username: test
+    password: test
+  - name: "server 69"
+    type: socks5
+    server: 115.127.135.186
+    port: 1088
+    username: test
+    password: test
+  - name: "server 70"
+    type: socks5
+    server: 103.91.231.244
+    port: 1088
+    username: test
+    password: test
+  - name: "server 71"
+    type: socks5
+    server: 103.186.238.1
+    port: 9169
+    username: "true"
+    password: "true"
+  - name: "server 72"
+    type: http
+    server: 182.160.124.174
+    port: 9669
+  - name: "server 73"
+    type: http
+    server: 103.18.204.141
+    port: 32706
+  - name: "server 74"
+    type: http
+    server: 27.147.163.188
+    port: 40544
+  - name: "server 75"
+    type: http
+    server: 103.40.226.126
+    port: 26100
+  - name: "server 76"
+    type: http
+    server: 202.40.178.218
+    port: 17209
+  - name: "server 77"
+    type: http
+    server: 121.200.63.205
+    port: 8742
+  - name: "server 78"
+    type: http
+    server: 202.40.178.165
+    port: 12761
+  - name: "server 79"
+    type: http
+    server: 121.200.61.221
+    port: 6565
+  - name: "server 80"
+    type: http
+    server: 45.115.112.138
+    port: 7675
+  - name: "server 81"
+    type: socks5
+    server: 103.150.255.120
+    port: 7878
+    username: "h2"
+    password: "h2"
+  - name: "server 82"
+    type: socks5
+    server: 122.102.35.105
+    port: 1080
+    username: "user1"
+    password: "user1"
+  - name: "server 83"
+    type: socks5
+    server: 45.125.221.11
+    port: 6969
+    username: "test"
+    password: "test"
+  - name: "server 84"
+    type: socks5
+    server: 103.179.154.27
+    port: 1080
+    username: "ECats@dx"
+    password: "ECats@dx"
+  - name: "server 85"
+    type: socks5
+    server: 115.127.149.202
+    port: 6699
+    username: 3xp
+    password: 3xp
+  - name: "server 86"
+    type: socks5
+    server: 115.127.155.86
+    port: 9966
+  - name: "server 87"
+    type: socks5
+    server: 115.127.155.161
+    port: 9966
+  - name: "server 88"
+    type: socks5
+    server: 115.127.159.182
+    port: 9966
+  - name: "server 89"
+    type: socks5
+    server: 115.127.192.158
+    port: 9966
+    username: Admintest
+    password: Admintest
+  - name: "server 90"
+    type: socks5
+    server: 203.202.253.139
+    port: 1052
+    username: 1
+    password: 1
+  - name: "server 91"
+    type: socks5
+    server: 115.127.210.242
+    port: 24442
+    username: a
+    password: a
+  - name: "server 92"
+    type: socks5
+    server: 103.126.23.240
+    port: 1080
+    password: test
+    username: test
+  - name: "server 93"
+    type: socks5
+    server: 118.179.197.30
+    port: 9090
+    username: test
+    password: test
+  - name: "server 94"
+    type: socks5
+    server: 118.179.201.124
+    port: 6699
+  - name: "server 95"
+    type: socks5
+    server: 118.179.205.26
+    port: 6699
+  - name: "server 96"
+    type: socks5
+    server: 202.4.114.56
+    port: 6699
+  - name: "server 97"
+    type: socks5
+    server: 115.127.107.106
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 98"
+    type: socks5
+    server: 115.127.8.194
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 99"
+    type: http
+    server: 202.4.117.238
+    port: 9999
+  - name: "server 100"
+    type: socks5
+    server: 49.0.46.98
+    port: 1080
+    username: Admintest
+    password: Admintest
+  - name: "server 101"
+    type: socks5
+    server: 202.4.124.134
+    port: 6699
+  - name: "server 102"
+    type: socks5
+    server: 120.50.19.245
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 103"
+    type: socks5
+    server: 202.4.125.208
+    port: 6699
+  - name: "server 104"
+    type: socks5
+    server: 180.211.169.46
+    port: 1080
+    username: test
+    password: test
+  - name: "server 105"
+    type: http
+    server: 202.4.125.221
+    port: 9999
+  - name: "server 106"
+    type: http
+    server: 114.130.181.114
+    port: 8080
+  - name: "server 107"
+    type: socks5
+    server: 180.211.169.46
+    port: 1080
+    username: test
+    password: test
+  - name: "server 108"
+    type: socks5
+    server: 115.127.112.218
+    port: 6699
+    username: 3xp
+    password: 3xp
+  - name: "server 109"
+    type: socks5
+    server: 115.127.39.18
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 110"
+    type: socks5
+    server: 115.127.148.146
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 111"
+    type: http
+    server: 118.179.152.102
+    port: 9999
+  - name: "server 112"
+    type: socks5
+    server: 115.127.106.158
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 113"
+    type: http
+    server: 118.179.152.102
+    port: 9999
+  - name: "server 114"
+    type: http
+    server: 118.179.212.59
+    port: 9999
+  - name: "server 115"
+    type: socks5
+    server: 115.127.147.40
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 116"
+    type: socks5
+    server: 118.179.45.70
+    port: 1080
+    username: test
+    password: test
+  - name: "server 117"
+    type: socks5
+    server: 118.179.81.98
+    port: 6699
+    username: test
+    password: test
+  - name: "server 118"
+    type: socks5
+    server: 118.179.101.117
+    port: 6699
+    username: test9
+    password: test9
+  - name: "server 119"
+    type: socks5
+    server: 103.91.129.170
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 120"
+    type: socks5
+    server: 103.4.64.163
+    port: 6969
+    username: test
+    password: test
+  - name: "server 121"
+    type: socks5
+    server: 103.101.197.117
+    port: 1088
+    username: test
+    password: test
+  - name: "server 122"
+    type: socks5
+    server: 123.253.37.149
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 123"
+    type: socks5
+    server: 49.0.39.182
+    port: 1080
+    username: Admintest
+    password: Admintest
+  - name: "server 124"
+    type: socks5
+    server: 160.22.214.73
+    port: 6699
+    username: ECats
+    password: ECats
+  - name: "server 125"
+    type: socks5
+    server: 115.127.74.226
+    port: 6699
+    username: 3xp
+    password: 3xp
+
+proxy-groups:
+  - name: "Stable ASHIK"
+    type: select
+    proxies:
+      - "server 1" 
+      - "server 2" 
+      - "server 3" 
+      - "server 4" 
+      - "server 5" 
+      - "server 6" 
+      - "server 7" 
+      - "server 8" 
+      - "server 9" 
+      - "server 10" 
+      - "server 11" 
+      - "server 12" 
+      - "server 13" 
+      - "server 14" 
+      - "server 15" 
+      - "server 16" 
+      - "server 17" 
+      - "server 18" 
+      - "server 19" 
+      - "server 20" 
+      - "server 21" 
+      - "server 22" 
+      - "server 23" 
+      - "server 24" 
+      - "server 25" 
+      - "server 26" 
+      - "server 27" 
+      - "server 28" 
+      - "server 29" 
+      - "server 30" 
+      - "server 31" 
+      - "server 32" 
+      - "server 33" 
+      - "server 34" 
+      - "server 35" 
+      - "server 36" 
+      - "server 37" 
+      - "server 38" 
+      - "server 39" 
+      - "server 40" 
+      - "server 41" 
+      - "server 42" 
+      - "server 43" 
+      - "server 44" 
+      - "server 45" 
+      - "server 46" 
+      - "server 47" 
+      - "server 48" 
+      - "server 49" 
+      - "server 50" 
+      - "server 51" 
+      - "server 52" 
+      - "server 53" 
+      - "server 54" 
+      - "server 55" 
+      - "server 56" 
+      - "server 57" 
+      - "server 58" 
+      - "server 59" 
+      - "server 60" 
+      - "server 61" 
+      - "server 62" 
+      - "server 63" 
+      - "server 64" 
+      - "server 65" 
+      - "server 66" 
+      - "server 67" 
+      - "server 68" 
+      - "server 69" 
+      - "server 70" 
+      - "server 71" 
+      - "server 72" 
+      - "server 73" 
+      - "server 74" 
+      - "server 75" 
+      - "server 76" 
+      - "server 77" 
+      - "server 78" 
+      - "server 79" 
+      - "server 80" 
+      - "server 81" 
+      - "server 82" 
+      - "server 83" 
+      - "server 84" 
+      - "server 85" 
+      - "server 86" 
+      - "server 87" 
+      - "server 88" 
+      - "server 89" 
+      - "server 90" 
+      - "server 91" 
+      - "server 92" 
+      - "server 93" 
+      - "server 94" 
+      - "server 95" 
+      - "server 96" 
+      - "server 97" 
+      - "server 98" 
+      - "server 99" 
+      - "server 100" 
+      - "server 101" 
+      - "server 102" 
+      - "server 103" 
+      - "server 104" 
+      - "server 105" 
+      - "server 106" 
+      - "server 107" 
+      - "server 108" 
+      - "server 109" 
+      - "server 110" 
+      - "server 111" 
+      - "server 112" 
+      - "server 113" 
+      - "server 114" 
+      - "server 115" 
+      - "server 116" 
+      - "server 117" 
+      - "server 118" 
+      - "server 119" 
+      - "server 120" 
+      - "server 121" 
+      - "server 122" 
+      - "server 123" 
+      - "server 124" 
+      - "server 125"
+
+rules:
+  - DOMAIN-SUFFIX,www.facebook.net,DIRECT
+  - DOMAIN-SUFFIX,www.youtube.com,DIRECT
+  - DOMAIN-SUFFIX,www.google.com,DIRECT
+  - DOMAIN-SUFFIX,www.torrentbd.net,DIRECT
+  - DOMAIN-SUFFIX,www.fiverr.com,DIRECT
+  - DOMAIN-SUFFIX,www.upwork.com,DIRECT
+  - DOMAIN-SUFFIX,www.payoneer.com,DIRECT
+  - DOMAIN-SUFFIX,www.binance.com,DIRECT
+  - MATCH,Stable ASHIK
