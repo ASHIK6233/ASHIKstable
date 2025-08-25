@@ -835,12 +835,13 @@ proxy-groups:
       - "server 125"
 
 rules:
-  - DOMAIN-SUFFIX,www.facebook.net,DIRECT
-  - DOMAIN-SUFFIX,www.youtube.com,DIRECT
-  - DOMAIN-SUFFIX,www.google.com,DIRECT
-  - DOMAIN-SUFFIX,www.torrentbd.net,DIRECT
-  - DOMAIN-SUFFIX,www.fiverr.com,DIRECT
-  - DOMAIN-SUFFIX,www.upwork.com,DIRECT
-  - DOMAIN-SUFFIX,www.payoneer.com,DIRECT
-  - DOMAIN-SUFFIX,www.binance.com,DIRECT
+  - DOMAIN-SUFFIX,whatismyisp.com,DIRECT
+  - DOMAIN-SUFFIX,facebook.com,DIRECT
+  - DOMAIN-SUFFIX,youtube.com,DIRECT
+  - DOMAIN-SUFFIX,google.com,DIRECT
+  - DOMAIN-SUFFIX,torrentbd.net,DIRECT
+  - DOMAIN-SUFFIX,fiverr.com,DIRECT
+  - DOMAIN-SUFFIX,upwork.com,DIRECT
+  - DOMAIN-SUFFIX,payoneer.com,DIRECT
+  - DOMAIN-SUFFIX,binance.com,DIRECT
   - MATCH,Stable ASHIK
