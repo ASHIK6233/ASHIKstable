@@ -835,7 +835,6 @@ proxy-groups:
       - "server 125"
 
 rules:
-  - DOMAIN-SUFFIX,whatismyisp.com,DIRECT
   - DOMAIN-SUFFIX,facebook.com,DIRECT
   - DOMAIN-SUFFIX,youtube.com,DIRECT
   - DOMAIN-SUFFIX,google.com,DIRECT
